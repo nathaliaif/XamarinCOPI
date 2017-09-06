@@ -1,0 +1,2 @@
+android.app.Application
+Calculadora_Aula1.Calculadora_Aula1

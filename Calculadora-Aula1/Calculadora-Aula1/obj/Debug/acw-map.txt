@@ -1,0 +1,4 @@
+Calculadora_Aula1.MainActivity, Calculadora-Aula1;md51686a866bac56e56878afccb269e5365.MainActivity
+Calculadora_Aula1.MainActivity, Calculadora-Aula1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51686a866bac56e56878afccb269e5365.MainActivity
+Calculadora_Aula1.MainActivity;md51686a866bac56e56878afccb269e5365.MainActivity
+calculadora_aula1.MainActivity;md51686a866bac56e56878afccb269e5365.MainActivity

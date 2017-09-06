@@ -1,0 +1,4 @@
+Aula1.MainActivity, Aula1;md5fa47769e24725792eaea3732245551d1.MainActivity
+Aula1.MainActivity, Aula1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fa47769e24725792eaea3732245551d1.MainActivity
+Aula1.MainActivity;md5fa47769e24725792eaea3732245551d1.MainActivity
+aula1.MainActivity;md5fa47769e24725792eaea3732245551d1.MainActivity
